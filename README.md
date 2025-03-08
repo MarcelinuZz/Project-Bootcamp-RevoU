@@ -21,4 +21,3 @@ git clone https://github.com/revou-fundamental-course/27-may-24-MarcelinuZz.git
 ```
 ## ShowCase
 ![Image](https://github.com/user-attachments/assets/b7ac08df-df9d-4f06-87c8-e75d87ae3aff)
-"# Project-Bootcamp-RevoU" 
